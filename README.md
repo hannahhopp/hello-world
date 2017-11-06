@@ -1,2 +1,4 @@
 # hello-world
-hi world
+Hello world of programming.
+
+I'm changing careers!
